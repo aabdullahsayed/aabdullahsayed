@@ -1,17 +1,14 @@
 # Abdullah Al Sayed
 
-**Results-driven software engineer** specializing in **backend development**, **cloud computing**, and **secure software architecture**. Passionate about designing scalable, high-performance applications with modern development practices
-
----
 
 ## 🛠️ Technical Expertise
 
 ### Programming Languages
-- **C++**, **Java**, **Python**, **SQL**, **PL/SQL**
+- **C++**, **Java**, **Python**
 
 ### Backend Development
-- **Spring Boot**, **Node.js**, **PHP**
-
+- **Spring Boot**, **Node.js**
+  
 ### Databases
 - **MySQL**, **PostgreSQL**, **OracleDB**
 
