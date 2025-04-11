@@ -5,7 +5,16 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="100" alt="Java Logo" />
 
-<div align="center"> <pre> <code style="font-family: 'Fira Code', 'Courier New', monospace; font-size: 14px;"> <span style="color:#569CD6;">@Profile</span>(<span style="color:#D69D85;">"backend-dev"</span>) <span style="color:#569CD6;">@Component</span> <span style="color:#569CD6;">public class</span> <span style="color:#4EC9B0;">Abdullah</span> <span style="color:#569CD6;">implements</span> <span style="color:#4EC9B0;">CloudNativeEngineer</span> { <span style="color:#569CD6;">@Autowired</span> <span style="color:#569CD6;">private</span> <span style="color:#4EC9B0;">MicroserviceArchitecture</span> <span style="color:#9CDCFE;">expertise</span>; <span style="color:#569CD6;">@Scheduled</span>(...) <span style="color:#569CD6;">public void</span> <span style="color:#DCDCAA;">buildScalableSystems</span>() { <span style="color:#9CDCFE;">log</span>.<span style="color:#DCDCAA;">info</span>(<span style="color:#D69D85;">"Crafting Spring Boot services @ {}"</span>, <span style="color:#4EC9B0;">Instant</span>.<span style="color:#DCDCAA;">now</span>()); } } </code> </pre> </div>
+
+public class Me {
+    public static void main(String[] args) {
+        System.out.println("I build scalable systems with:");
+        System.out.println("- Spring Boot microservices");
+        System.out.println("- Cloud-native patterns");
+        System.out.println("- Clean, maintainable code");
+    }
+}
+
   
   <h3>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=38BCF7&center=true&vCenter=true&width=500&lines=%22Build+Once%2C+Scale+Anywhere%22" alt="Build Once, Scale Anywhere">
