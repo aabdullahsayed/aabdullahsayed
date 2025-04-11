@@ -1,6 +1,4 @@
-# Abdullah Al Sayed
 
-## 🛠️ Technical Expertise
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="100" alt="Java Logo" />
@@ -45,6 +43,9 @@
     
   </div>
 </div>
+
+
+
   
   <h3>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=38BCF7&center=true&vCenter=true&width=500&lines=%22Build+Once%2C+Scale+Anywhere%22" alt="Build Once, Scale Anywhere">
