@@ -31,28 +31,7 @@
       <div style="width: 12px; height: 12px; border-radius: 50%; background: #27C93F;"></div>
     </div>
     
-    <!-- File Tab -->
-    <div style="
-      color: #607B96;
-      font-size: 0.9rem;
-      margin-bottom: 1.5rem;
-      text-align: left;
-      border-bottom: 1px solid #1E2D3D;
-      padding-bottom: 0.5rem;
-    ">
-      <span style="color: #FFFFFF;">Me.java</span>
-    </div>
-    
-    <!-- Code Block -->
-    <pre style="
-      margin: 0;
-      overflow-x: auto;
-      color: #E5E9F0;
-      font-size: 0.95rem;
-      line-height: 1.5;
-      text-align: left;
-      padding: 0 1rem;
-    ">
+
 <code><span style="color: #C792EA;">public class</span> <span style="color: #82AAFF;">Me</span> {
   <span style="color: #C792EA;">public static</span> <span style="color: #82AAFF;">void</span> <span style="color: #FFCB6B;">main</span>(String[] args) {
     System.<span style="color: #89DDFF;">out</span>.<span style="color: #FFCB6B;">println</span>(<span style="color: #89DDFF;">"</span><span style="color: #C3E88D;">I build scalable systems with:</span><span style="color: #89DDFF;">"</span>);
@@ -63,22 +42,8 @@
 }</code>
     </pre>
     
-    <!-- Copy Button -->
-    <button style="
-      position: absolute;
-      top: 15px;
-      right: 15px;
-      background: #1E2D3D;
-      color: #607B96;
-      border: none;
-      border-radius: 4px;
-      padding: 4px 8px;
-      font-size: 0.8rem;
-      cursor: pointer;
-      font-family: 'Fira Code', monospace;
-    " onclick="navigator.clipboard.writeText('public class Me {\n  public static void main(String[] args) {\n    System.out.println(\"I build scalable systems with:\");\n    System.out.println(\"- Spring Boot microservices\");\n    System.out.println(\"- Cloud-native patterns\");\n    System.out.println(\"- Clean, maintainable code\");\n  }\n}')">
-      Copy
-    </button>
+    
+    
   </div>
 </div>
   
