@@ -34,40 +34,16 @@
   <a href="https://codeforces.com/profile/heavenlyobject" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/sayedtheidiot" target="blank">
+  <a href="https://www.leetcode.com/heavenlyobject" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabdullahsayed&theme=gotham&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aabdullahsayed&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 
-### 📊 Competitive Programming 
 
-<p align="left">
-  </a>
-  <a href="https://codeforces.com/profile/heavenlyobject" target="blank">
-    <img src="https://codeforces.org/s/0/favicon-32x32.png" width="32" alt="Codeforces Logo">
-  </a>
-  <a href="https://www.leetcode.com/heavenlyobject" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
-## 🔬 Data Science & Machine Learning
-<p align="left">
-  <a href="https://kaggle.com/alabdullahsayed" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
- 
-## TryHackMe Profile
-
-<div align="center">
-  <a href="https://tryhackme.com/p/sayedtheidiot" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/sayedtheidiot.png" alt="TryHackMe Badges" width="300">
-  </a>
-</div>
