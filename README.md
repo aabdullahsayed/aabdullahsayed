@@ -51,7 +51,7 @@
 <p align="left">
   </a>
   <a href="https://codeforces.com/profile/heavenlyobject" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+    <img src="https://codeforces.org/s/0/favicon-32x32.png" width="32" alt="Codeforces Logo">
   </a>
   <a href="https://www.leetcode.com/heavenlyobject" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
@@ -59,10 +59,9 @@
 </p>
 
 ## 🔬 Data Science & Machine Learning
-
-<div align="center">
-  <a href="https://www.kaggle.com/alabdullahsayed" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Profile">
+<p align="left">
+  <a href="https://kaggle.com/alabdullahsayed" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
  
 ## TryHackMe Profile
