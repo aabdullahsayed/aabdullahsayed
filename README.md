@@ -68,7 +68,13 @@ Thanks for visiting! 🚀
 
 
 
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="100" alt="Original Java Logo" />
 
+public class WORA {
+    public static void main(String[] args) {
+        System.out.println("Write once, run anywhere!"); 
+    }
+}
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabdullahsayed&theme=gotham&show_icons=true&locale=en&layout=compact" alt="aabdullahsayed" /></p>
 
