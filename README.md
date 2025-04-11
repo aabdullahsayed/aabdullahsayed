@@ -53,3 +53,13 @@
     <img src="https://codeforces-readme-stats.vercel.app/api?username=heavenlyobject&theme=dark" alt="Codeforces Stats" width="400"/>
   </a>
 </p>
+
+# Abdullah Al Sayed
+
+## TryHackMe Profile
+
+<div align="center">
+  <a href="https://tryhackme.com/p/sayedtheidiot" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/sayedtheidiot.png" alt="TryHackMe Badges" width="300">
+  </a>
+</div>
