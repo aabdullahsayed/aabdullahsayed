@@ -46,4 +46,8 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aabdullahsayed&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 
+### 📊 Competitive Programming Stats
+<p align="center">
+  <img src="https://cf-stats-card.vercel.app/api?username=heavenlyobject&theme=onedark" alt="Codeforces Stats" width="400"/>
+</p>
 
