@@ -47,7 +47,9 @@
 </div>
 
 ### 📊 Competitive Programming Stats
-<p align="center">
-  <img src="https://cf-stats-card.vercel.app/api?username=heavenlyobject&theme=onedark" alt="Codeforces Stats" width="400"/>
-</p>
 
+<p align="center">
+  <a href="https://codeforces.com/profile/heavenlyobject">
+    <img src="https://codeforces-readme-stats.vercel.app/api?username=heavenlyobject&theme=dark" alt="Codeforces Stats" width="400"/>
+  </a>
+</p>
