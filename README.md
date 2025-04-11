@@ -48,13 +48,8 @@
 
 ### 📊 Competitive Programming Stats
 
-<p align="center">
-  <a href="https://codeforces.com/profile/heavenlyobject">
-    <img src="https://codeforces-readme-stats.vercel.app/api?username=heavenlyobject&theme=dark" alt="Codeforces Stats" width="400"/>
-  </a>
-</p>
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces)](https://codeforces.com/profile/heavenlyobject)
 
-# Abdullah Al Sayed
 
 ## TryHackMe Profile
 
