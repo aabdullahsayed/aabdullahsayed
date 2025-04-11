@@ -21,7 +21,9 @@
 ### Version Control
 - **Git**, **GitLab**
 
-  [![Scalable](https://svg-text-dynamic.vercel.app/api?text=Build%20Once%2C%20Scale%20Anywhere&fontSize=30&fontWeight=700&color1=%2338BDF8&color2=%23F472B6&duration=1000)](https://github.com/yourprofile)
+ <h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=38BCF7&center=true&vCenter=true&width=500&lines=%22Build+Once%2C+Scale+Anywhere%22" alt="Build Once, Scale Anywhere">
+</h3>)
 
 
 <!--## 📂 Featured Projects
