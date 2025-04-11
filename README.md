@@ -21,7 +21,7 @@
 | **Languages** | <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" width="70"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" width="70"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" width="80"> |
 | **Backend**   | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" width="110"> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" width="80"> |
 | **Data**      | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" width="80"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" width="100"> <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" width="80"> |
-| **DevOps**    | <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" width="70"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" width="80"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" width="100"> |
+| **DevOps**    | <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB_stacked_REV_SQ.91cd4af40773cbfbd15577a3c2b8a346fe3e8fa2.png" width="70" alt="AWS"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" width="80"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" width="100"> |
 | **Tools**     | <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" width="60"> <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" width="70"> |
 
 ## 🌐 
