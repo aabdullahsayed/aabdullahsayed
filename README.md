@@ -70,7 +70,7 @@ Thanks for visiting! 🚀
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabdullahsayed&show_icons=true&locale=en&layout=compact" alt="aabdullahsayed" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabdullahsayed&theme=gotham&show_icons=true&locale=en&layout=compact" alt="aabdullahsayed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aabdullahsayed&theme=gotham&show_icons=true&locale=en" alt="aabdullahsayed" /></p>
 
