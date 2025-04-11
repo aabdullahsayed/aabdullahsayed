@@ -7,19 +7,80 @@
 
 
 <div align="center">
-  <h1>Hello World! 👋 I'm <Your Name></h1>
-  
-  <div style="background: #f5f5f5; border-radius: 8px; padding: 20px; margin: 20px 0; font-family: 'Courier New', monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <pre style="margin: 0; white-space: pre-wrap;">
-<code style="color: #333;">public class Me {
-  public static void main(String[] args) {
-    System.out.println("<span style='color: #0366d6;'>I build scalable systems with:</span>");
-    System.out.println("<span style='color: #28a745;'>- Spring Boot microservices</span>");
-    System.out.println("<span style='color: #28a745;'>- Cloud-native patterns</span>");
-    System.out.println("<span style='color: #28a745;'>- Clean, maintainable code</span>");
+  <div style="
+    background: #011627;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    font-family: 'Fira Code', monospace;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+    border: 1px solid #1E2D3D;
+    max-width: 700px;
+    position: relative;
+  ">
+    <!-- Window Controls -->
+    <div style="
+      display: flex;
+      gap: 8px;
+      position: absolute;
+      top: 15px;
+      left: 15px;
+    ">
+      <div style="width: 12px; height: 12px; border-radius: 50%; background: #FF5F56;"></div>
+      <div style="width: 12px; height: 12px; border-radius: 50%; background: #FFBD2E;"></div>
+      <div style="width: 12px; height: 12px; border-radius: 50%; background: #27C93F;"></div>
+    </div>
+    
+    <!-- File Tab -->
+    <div style="
+      color: #607B96;
+      font-size: 0.9rem;
+      margin-bottom: 1.5rem;
+      text-align: left;
+      border-bottom: 1px solid #1E2D3D;
+      padding-bottom: 0.5rem;
+    ">
+      <span style="color: #FFFFFF;">Me.java</span>
+    </div>
+    
+    <!-- Code Block -->
+    <pre style="
+      margin: 0;
+      overflow-x: auto;
+      color: #E5E9F0;
+      font-size: 0.95rem;
+      line-height: 1.5;
+      text-align: left;
+      padding: 0 1rem;
+    ">
+<code><span style="color: #C792EA;">public class</span> <span style="color: #82AAFF;">Me</span> {
+  <span style="color: #C792EA;">public static</span> <span style="color: #82AAFF;">void</span> <span style="color: #FFCB6B;">main</span>(String[] args) {
+    System.<span style="color: #89DDFF;">out</span>.<span style="color: #FFCB6B;">println</span>(<span style="color: #89DDFF;">"</span><span style="color: #C3E88D;">I build scalable systems with:</span><span style="color: #89DDFF;">"</span>);
+    System.<span style="color: #89DDFF;">out</span>.<span style="color: #FFCB6B;">println</span>(<span style="color: #89DDFF;">"</span><span style="color: #F78C6C;">- Spring Boot microservices</span><span style="color: #89DDFF;">"</span>);
+    System.<span style="color: #89DDFF;">out</span>.<span style="color: #FFCB6B;">println</span>(<span style="color: #89DDFF;">"</span><span style="color: #F78C6C;">- Cloud-native patterns</span><span style="color: #89DDFF;">"</span>);
+    System.<span style="color: #89DDFF;">out</span>.<span style="color: #FFCB6B;">println</span>(<span style="color: #89DDFF;">"</span><span style="color: #F78C6C;">- Clean, maintainable code</span><span style="color: #89DDFF;">"</span>);
   }
 }</code>
-    </pre>div>
+    </pre>
+    
+    <!-- Copy Button -->
+    <button style="
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      background: #1E2D3D;
+      color: #607B96;
+      border: none;
+      border-radius: 4px;
+      padding: 4px 8px;
+      font-size: 0.8rem;
+      cursor: pointer;
+      font-family: 'Fira Code', monospace;
+    " onclick="navigator.clipboard.writeText('public class Me {\n  public static void main(String[] args) {\n    System.out.println(\"I build scalable systems with:\");\n    System.out.println(\"- Spring Boot microservices\");\n    System.out.println(\"- Cloud-native patterns\");\n    System.out.println(\"- Clean, maintainable code\");\n  }\n}')">
+      Copy
+    </button>
+  </div>
+</div>
   
   <h3>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=38BCF7&center=true&vCenter=true&width=500&lines=%22Build+Once%2C+Scale+Anywhere%22" alt="Build Once, Scale Anywhere">
