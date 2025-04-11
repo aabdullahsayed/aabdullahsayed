@@ -46,11 +46,25 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aabdullahsayed&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 
-### 📊 Competitive Programming Stats
+### 📊 Competitive Programming 
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces)](https://codeforces.com/profile/heavenlyobject)
+<p align="left">
+  </a>
+  <a href="https://codeforces.com/profile/heavenlyobject" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/heavenlyobject" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
 
+## 🔬 Data Science & Machine Learning
 
+<div align="center">
+  <a href="https://www.kaggle.com/alabdullahsayed" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Profile">
+  </a>
+ 
 ## TryHackMe Profile
 
 <div align="center">
