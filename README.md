@@ -90,3 +90,5 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aabdullahsayed&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabdullahsayed&theme=gothic)
