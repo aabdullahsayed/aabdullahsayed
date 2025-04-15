@@ -51,6 +51,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=38BCF7&center=true&vCenter=true&width=500&lines=%22Build+Once%2C+Scale+Anywhere%22" alt="Build Once, Scale Anywhere">
   </h3>
 </div>
+
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabdullahsayed&theme=gotham&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aabdullahsayed&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
+
  <!--
 ### 🔍 Core Competencies
 - **High-performance Systems** (Java, C++)
