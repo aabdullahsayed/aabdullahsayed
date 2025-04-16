@@ -46,7 +46,7 @@
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/{aabdullahsayed}/count.svg)
+
 
 
   
@@ -54,7 +54,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=38BCF7&center=true&vCenter=true&width=500&lines=%22Build+Once%2C+Scale+Anywhere%22" alt="Build Once, Scale Anywhere">
   </h3>
 </div>
-
+<!-- 
 
 <div align="center">
   <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabdullahsayed&theme=city_lights&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
