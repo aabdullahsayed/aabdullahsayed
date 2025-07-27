@@ -1,3 +1,18 @@
+<div align="center">
+  <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabdullahsayed&theme=city_lights&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img width="25%" src="https://github-readme-stats.vercel.app/api?username=aabdullahsayed&theme=city_lights&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabdullahsayed&theme=gotham&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aabdullahsayed&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
+
+
+
+
+
+
 
 
 <div align="center">
@@ -56,15 +71,7 @@
 </div>
 <!-- 
 
-<div align="center">
-  <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabdullahsayed&theme=city_lights&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img width="25%" src="https://github-readme-stats.vercel.app/api?username=aabdullahsayed&theme=city_lights&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
 
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabdullahsayed&theme=gotham&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aabdullahsayed&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
 
 
 
