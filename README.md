@@ -9,7 +9,7 @@
 * <img src="https://img.icons8.com/ios-filled/50/FFFFFF/router.png" width="14" /> [Computer-Networks](https://github.com/aabdullahsayed/Computer-Networks)
 * <img src="https://img.icons8.com/ios-filled/50/FFFFFF/sigma.png" width="14" /> [Theory-of-Computation](https://github.com/aabdullahsayed/Theory-of-Computation)
 * <img src="https://img.icons8.com/ios-filled/50/FFFFFF/settings.png" width="14" /> [Compiler-Design](https://github.com/aabdullahsayed/Compiler-Design)
-* <img src="https://img.icons8.com/ios-filled/50/FFFFFF/source-code.png" width="14" /> [CSharp-DesignPatterns-DotNet](https://github.com/aabdullahsayed/CSCore)
+* <img src="https://img.icons8.com/ios-filled/50/FFFFFF/source-code.png" width="14" /> [ASP.NET Core(C#) With Design Patterns](https://github.com/aabdullahsayed/CSCore)
 
 ## Paths
 
@@ -19,13 +19,3 @@
 
 `ML → Math → Deep Learning → Projects`
 
-
-
-
-## Paths
-
-`DSA → DBMS → Networks → System Design`
-
-`C# → .NET → Design Patterns → Projects`
-
-`ML → Math → Deep Learning → Projects`
