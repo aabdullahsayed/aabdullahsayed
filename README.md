@@ -14,8 +14,13 @@
 * <img src="https://img.icons8.com/ios-filled/50/FFFFFF/git.png" width="14" /> [Git](https://github.com/aabdullahsayed/git-essestials)
 
 
-* <img src="https://img.icons8.com/ios-filled/50/FFFFFF/domain.png" width="14" /> [Personal Website](https://aabdullahsayed.github.io)
+## Author
 
+<p align="left">
+  <a href="https://aabdullahsayed.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Author%20Website-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+</p>
 
 
 ## Paths
