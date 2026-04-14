@@ -10,6 +10,7 @@
 * <img src="https://img.icons8.com/ios-filled/50/FFFFFF/sigma.png" width="14" /> [Theory-of-Computation](https://github.com/aabdullahsayed/Theory-of-Computation)
 * <img src="https://img.icons8.com/ios-filled/50/FFFFFF/settings.png" width="14" /> [Compiler-Design](https://github.com/aabdullahsayed/Compiler-Design)
 * <img src="https://img.icons8.com/ios-filled/50/FFFFFF/source-code.png" width="14" /> [ASP.NET Core(C#) With Design Patterns](https://github.com/aabdullahsayed/CSCore)
+* <img src="https://img.icons8.com/ios-filled/50/FFFFFF/javascript.png" width="14" /> [JavaScript](https://github.com/aabdullahsayed/JScribe)
 
 ## Paths
 
