@@ -13,6 +13,11 @@
 * <img src="https://img.icons8.com/ios-filled/50/FFFFFF/javascript.png" width="14" /> [JavaScript](https://github.com/aabdullahsayed/JScribe)
 * <img src="https://img.icons8.com/ios-filled/50/FFFFFF/git.png" width="14" /> [Git](https://github.com/aabdullahsayed/git-essestials)
 
+
+* <img src="https://img.icons8.com/ios-filled/50/FFFFFF/domain.png" width="14" /> [Personal Website](https://aabdullahsayed.github.io)
+
+
+
 ## Paths
 
 `DSA → DBMS → Networks → System Design`
